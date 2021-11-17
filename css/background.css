@@ -1,0 +1,17 @@
+#back_blue {
+    border: 8px dotted black; 
+    padding: 35px; 
+    background: rgb(149, 212, 191); 
+    background-clip: content-box; 
+}
+#back_green{
+    border: 10px dotted rgb(106, 196, 95); 
+    padding: 8px; 
+    background: gray; 
+    background-clip: content-box; 
+}
+#back_red{
+    border: 6px groove rgb(235, 79, 112);
+    padding: 8px;
+    background-clip: content-box;
+}
